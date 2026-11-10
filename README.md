@@ -2,7 +2,7 @@
 
 **Conectamos talento. Impulsamos futuro.**
 
-> **Proyecto en construcción.** Todavía no hay una plataforma en funcionamiento: hoy existe un prototipo navegable con datos de ejemplo y estamos validando la idea con emprendedores y jóvenes con talento.
+> **Proyecto en construcción.** Todavía no hay una plataforma en funcionamiento: hoy existe un prototipo navegable con datos de ejemplo y estamos validando la idea con emprendedores y jóvenes con talento. El proyecto ya se presentó en la Semana de la Innovación y se sigue construyendo.
 
 ## Qué es NEXO
 
@@ -36,8 +36,8 @@ Hoy esto se resuelve por recomendación, redes sociales y grupos de mensajería:
 | --- | --- |
 | Idea y documento base | Hecho |
 | Prototipo navegable con datos de ejemplo | Hecho |
+| Presentación en la Semana de la Innovación | Hecho |
 | Validación con emprendedores y jóvenes | En curso |
-| Presentación en la Semana de Emprendimiento (27 de octubre de 2026) | Próxima |
 | Primera versión funcional (MVP) | Por empezar |
 
 Por ahora este repositorio contiene solo este README; el código y los documentos se irán incorporando.
